@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BreakFast</string>
+    <string name="title_activity_mapagoo">Map</string>
+    <string name="login" />
+    <string name="registrar" />
+    <string name="enter_password" />
+    <string name="enter_email" />
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "569504210220",
+    "project_id": "breakfast-53d9c",
+    "storage_bucket": "breakfast-53d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569504210220:android:691d4d11b1433d4d93a089",
+        "android_client_info": {
+          "package_name": "cl.carlos.breakfast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569504210220-2h55q71vvnp7cj7b15b7l136lcvme6ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.carlos.breakfast",
+            "certificate_hash": "a8a8ec1a631a34a38cbe9c0062ab5240a5cc6106"
+          }
+        },
+        {
+          "client_id": "569504210220-ps1ndqrk9hp5us3eqsh9np0gio9v7k5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW4AUN1ZgrR42NQF9BdeG978nWDb9GrNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569504210220-ps1ndqrk9hp5us3eqsh9np0gio9v7k5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
